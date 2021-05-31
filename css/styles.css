@@ -1,0 +1,19 @@
+.main-block{
+	width:60%;
+	margin: 0 auto;
+	margin-top: 1%;
+}
+
+.first-block{
+width:100%;
+padding:5%;
+height:640px;
+border:1px solid black;
+border-radius: 10px;
+margin: 0 auto;
+}
+
+.second-block{
+	border:1px solid black;
+	width: 100%;
+}
