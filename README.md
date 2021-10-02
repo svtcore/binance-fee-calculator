@@ -2,7 +2,7 @@
 
 It helps calculate approximate profit/losses of trading including binance transaction fee which depends of VIP level 
 
-You can try it here [HERE](https://svtcore.github.io/BinanceFeeCalculator/ "HERE")
+You can try it here [HERE](https://svtcore.github.io/binance-fee-calculator "HERE")
 
 It could be used for any cryptocurrency just fill right fields
 
