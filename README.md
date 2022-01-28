@@ -10,9 +10,9 @@ To use locally on your device just open index.html
 
 Using this software you agree with [LICENCE](../master/LICENSE). The author is not responsible for possible losses, results of using the software
 
-How to calculate manually
+## Main algorithm
 
-For example you want invest $100 to btc while it has value 30000. Calculate how much it in btc value (Some values will be round)
+For example $100 into BTC while it has value 30000. Calculate how much it in btc value (Some values will be round)
 > 100 / 30000 = 0.00333333 BTC
 
 if you are VIP 0 your fee is 0.10% so calculate how much will be fee from this value
